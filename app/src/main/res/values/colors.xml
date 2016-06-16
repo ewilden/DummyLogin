@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButton">#ffffffff</color>
+    <color name="colorEmailBackground">#4bffffff</color>
+    <color name="colorButtonText">#d3000000</color>
+    <color name="colorEmailText">#ffffffff</color>
+    <color name="colorOverlay">#a4000000</color>
+
+</resources>
